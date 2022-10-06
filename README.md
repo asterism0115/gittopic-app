@@ -47,7 +47,7 @@ Feel free to elaborate on how you would improve any of the following topics
 
 
 ---
-# TECH NOTE from Jak:
+# TECH NOTE from Hans:
 
 ### Product screen shot:
 
