@@ -56,6 +56,7 @@ Feel free to elaborate on how you would improve any of the following topics
 ### User Guide:
 
 * Build by running the command `yarn install`
+* Add the personal access token of your github to the env file
 * Open the page by running the command `yarn start`
 * See the screen shot above. Topics related to 'react' will be displayed ([similar to Github page](https://github.com/search?q=react))
 * User can change the topic by typing in the Search Bar on the top right
